@@ -1,0 +1,14 @@
+using UnityEditor;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME#
+{
+    //#SCRIPTNAME_LOWER#
+
+    public void Method()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEND#
